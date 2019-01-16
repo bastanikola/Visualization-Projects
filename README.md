@@ -1,4 +1,4 @@
-# Visualization Projects
+# Visualization Development Projects
 
 These projects were accomplished in cooperation with Udemy courses:
   - TABLEAU 2018: Hands-On Tableau Training For Data Science
